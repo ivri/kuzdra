@@ -18,6 +18,7 @@ The data file contains translations in about 80 languages. Each line has a trans
 Extra information:
  - `bib` -- Biblical
  - `us` -- US English
+ - `br` -- Brazilian Portuguese
  - `cyr` -- Cyrillic script (when more than one script)
  - `lat` -- Latin script (when more than one script)
 
