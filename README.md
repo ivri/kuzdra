@@ -8,7 +8,9 @@ A nonce sentence translated into 100 languages. The phrase that has been propose
 
 The phrase was popularized by Lev Uspensky in his popular science book `A Word about Words'
 
-More: Lewis Carroll's ``Jabberwocky'' is another example from English literature 
+More: 
+ - Lewis Carroll's ``Jabberwocky'' is another example from English literature 
+ - Henry Allan Gleason's ``The iggle squiggs trazed wombly in the harlish hoop``
 
 # The data file
 The data file contains translations in about 80 languages. Each line has a translation followed by a corresponding language code (ISO 639-3), optionally with some extra information provided in (). 
